@@ -27,7 +27,6 @@ Not all features of Inquirer are supported or implemented in Enquirer.
 
 - NOT supports `rawlist`, `expand`, `editor` prompts.
 - NOT supports separator.
-- NOT supports option `pageSize`.
 
 ## License
 
