@@ -1,0 +1,24 @@
+{
+  "name": "enquirer-compat",
+  "version": "0.0.0",
+  "description": "A package for compatibility from Inquirer.",
+  "main": "lib/index.js",
+  "repository": "https://github.com/g-plane/enquirer-compat",
+  "author": "Pig Fang <g-plane@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "eslint . -f=beauty"
+  },
+  "dependencies": {
+    "enquirer": "^2.0.6"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-gplane": "^3.4.0",
+    "eslint-formatter-beauty": "^3.0.0"
+  }
+}
