@@ -25,7 +25,7 @@ Change your code like this:
 
 Not all features of Inquirer are supported or implemented in Enquirer.
 
-- NOT supports `rawlist`, `expand`, `checkbox`, `editor` prompts.
+- NOT supports `rawlist`, `expand`, `editor` prompts.
 - NOT supports separator.
 - NOT supports option `pageSize`.
 
