@@ -1,6 +1,6 @@
 {
   "name": "enquirer-compat",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A package for compatibility from Inquirer.",
   "main": "lib/index.js",
   "repository": "https://github.com/g-plane/enquirer-compat",
