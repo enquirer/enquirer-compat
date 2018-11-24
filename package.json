@@ -3,7 +3,7 @@
   "version": "0.4.0",
   "description": "A package for compatibility from Inquirer.",
   "main": "lib/index.js",
-  "repository": "https://github.com/g-plane/enquirer-compat",
+  "repository": "https://github.com/enquirer/enquirer-compat",
   "author": "Pig Fang <g-plane@hotmail.com>",
   "license": "MIT",
   "private": false,
